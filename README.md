@@ -27,6 +27,7 @@
     <p>Phone: +123 456 7890</p>
     <p>Email: contact@hotelsunshine.com</p>
     <p>Address: 123 Sunshine St, City, Country</p>
+    <p>hello</p>
 
 </body>
 </html>
